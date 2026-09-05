@@ -182,6 +182,7 @@ awesome-openclaw/
 | Awesome OpenClaw Skills | Community skill collection | [GitHub](https://github.com/VoltAgent/awesome-openclaw-skills) |
 | OpenClaw Foundry | Self-writing meta-extension | [GitHub](https://github.com/lekt9/openclaw-foundry) |
 | Claude Code Skill | MCP integration for sub-agents | [GitHub](https://github.com/Enderfga/openclaw-claude-code-skill) |
+| Univer Office | Collaborative office workspace plugin for spreadsheets, documents, slides, boards, PDFs, and relational tables | [GitHub](https://github.com/dream-num/openclaw-univer-office) |
 
 ---
 
